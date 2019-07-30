@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @project : PC
-@author  : 王智峰
+@author  : dage
 @file   : main.py
 @ide    : PyCharm
 @time   : 2019-06-13 18:23:23
